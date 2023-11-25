@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Raj karthi vaya moodu. hi my name is raj. change in . change 4
-=======
-Raj karthi vaya moodu. hi my name is raj. change in . change 3
->>>>>>> 7195cdf4fbc8af3dde59fff70219694969198692
+
